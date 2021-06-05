@@ -26,3 +26,8 @@ p{
     transform:scale(.9);
     
 }
+
+.credits {
+    position:absolute;
+    bottom: 5rem;
+}
